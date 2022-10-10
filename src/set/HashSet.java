@@ -1,5 +1,6 @@
 package set;
 
+/** hash collision strategy: Separate Chaining */
 public class HashSet<E> implements Set<E> {
 
     /** buckets 의 default size  */
